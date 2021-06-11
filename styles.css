@@ -12,6 +12,7 @@
 
 body {
   background-color: #393E46;
+  text-align: center;
 }
 
 h1 {
@@ -38,4 +39,10 @@ footer {
   text-align: center;
   font-family: 'Indie Flower', cursive;
 
+}
+
+a {
+  text-align: center;
+  color:#4ECCA3;
+  font-size: 14;
 }
